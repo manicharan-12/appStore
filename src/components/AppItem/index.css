@@ -1,0 +1,15 @@
+.app-list {
+  background-color: #ffffff;
+  border-radius: 12px;
+  margin: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px;
+  width: 25%;
+}
+
+.logo-image {
+  height: 100px;
+  width: 100px;
+}

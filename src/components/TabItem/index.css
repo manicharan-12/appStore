@@ -1,0 +1,25 @@
+/* Write your CSS here */
+/* Write your CSS here */
+button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+.list-items {
+  color: #7b8794;
+}
+h1 {
+  margin-right: 12px;
+  margin-left: 12px;
+  margin-bottom: 0px;
+}
+
+.hightlight-color {
+  color: #2563eb;
+}
+
+.hightlight-color-border {
+  border: 1px solid #2563eb;
+}
